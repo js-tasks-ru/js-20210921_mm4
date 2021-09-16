@@ -5,5 +5,5 @@
  * @returns {number}
  */
 export default function sum(m, n) {
-  return m + n; //success
+  return m + n;
 }
